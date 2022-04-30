@@ -1,1 +1,1 @@
-# pandaclient
+# PandaClient (BETA)
