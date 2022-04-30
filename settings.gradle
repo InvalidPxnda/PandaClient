@@ -1,0 +1,5 @@
+rootProject.name = 'PandaClient'
+
+include ':mcp'
+project(":mcp").projectDir = file("projects/mcp")
+
